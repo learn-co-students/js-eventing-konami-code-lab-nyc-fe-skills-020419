@@ -1,15 +1,3 @@
-# Konami Code Lab
-
-## Objectives
-
-1. Practice using event listeners
-
-## Practice Using Event Listeners
-
-In `konami_code.js`, you'll notice that there's very little code in the file.
-If you examine what's there, you should see:
-
-```js
 const code = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]
 
 function init() {
